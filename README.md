@@ -26,7 +26,7 @@ HTML Basics: Introduction to HTML, its syntax, and its significance in web devel
 
 HTML Elements: Explanation of various elements like headings, paragraphs, lists, links, images, tables, and more.
 
-Semantic HTML: Emphasis on meaningful HTML elements like <header>, <article>, <section>, and <footer>.
+Semantic HTML: Emphasis on meaningful HTML elements like <header>, <article>, <section> and <footer>.
 
 Forms and Input: Building interactive forms with <input>, <select>, and <textarea>.
 
